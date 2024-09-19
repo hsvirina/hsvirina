@@ -4,7 +4,7 @@ I'm a driven Full Stack Developer with a solid foundation in both front-end and 
 From a young age, I loved building various models and solving puzzles, which naturally sparked my interest in software development. Now, I find joy in 'playing' with code and tackling complex problems, much like assembling intricate models.
 I am dedicated to creating reliable and secure digital solutions and am eager to expand my knowledge, including exploring the fundamentals of cybersecurity and continuously learning new technologies and programming languages in IT.
 
-#### My Tech Stack
+#### My Tech Stack:
 
 - [x] HTML5, CSS3, Sass (SCSS), BEM
 - [x] Typescript, JavaScript
