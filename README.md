@@ -9,6 +9,7 @@ I am dedicated to creating reliable and secure digital solutions and am eager to
 - [x] HTML5, CSS3, Sass (SCSS), BEM
 - [x] Typescript, JavaScript
 - [x] React, Redux
+- [x] Angular, Vue.js
 - [x] Node, Express
 - [x] Fetch, REST API, SQL
 - [x] Figma, Visual Studio Code
