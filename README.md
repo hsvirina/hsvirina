@@ -8,6 +8,8 @@ I am dedicated to creating reliable and secure digital solutions and am eager to
 
 Feel free to check out my projects and reach out if you'd like to collaborate or chat about tech!
 
+- [x] HTML5, CSS3, Sass (SCSS), BEM
+
 <!--
 **hsvirina/hsvirina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
