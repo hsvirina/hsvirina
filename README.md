@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Hanna, glad to see you on my profile!
 
-I'm a driven Full Stack Developer with a solid foundation in both front-end and back-end technologies. I hold a Master's Degree in Economic Cybernetics.
-From a young age, I loved building various models and solving puzzles, which naturally sparked my interest in software development. Now, I find joy in 'playing' with code and tackling complex problems, much like assembling intricate models.
+I'm a Full Stack Developer with a strong foundation in both front-end and back-end technologies. I hold a Master’s degree in Economic Cybernetics.
 I am dedicated to creating reliable and secure digital solutions and eager to expand my knowledge, including exploring the fundamentals of cybersecurity and continuously learning new technologies in IT.
 
 #### My Tech Stack:
@@ -9,8 +8,8 @@ I am dedicated to creating reliable and secure digital solutions and eager to ex
 - [x] HTML5, CSS3, Sass (SCSS), BEM
 - [x] Typescript, JavaScript
 - [x] React, Redux
-- [x] Angular, Vue.js
-- [x] Node, Express
+- [x] Angular
+- [x] Node.js, Express
 - [x] Fetch, REST API, SQL
 - [x] Figma, Visual Studio Code
 - [x] Git/GitHub, VS Code, Chrome Developer Tools (incl. React), NPM, Terminal
